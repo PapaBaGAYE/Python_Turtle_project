@@ -1,5 +1,11 @@
 # DIAGRAMME DE FLUX
 
+## Présentation 
+Ce Projet été réalise par les 3 étuiants suivants : <br>
+**Papa Ba GAYE** a écrit le module **dessinMSDA** et le **README avec le Tableau de flux** <br>
+**Kardiatou GAKO** a écrit le module **...** et le **..** <br>
+**Aphsatou DIA** a écrit le module **...** et le **...** <br>
+Et nous avons travaillé ensemble sur le **Drapeau**
 <div class="container">
   <h3>Maison</h3>
   <table class="table table-dark">
@@ -118,7 +124,7 @@
 
 **Participants**
 <ul>
-    <li><a href="">Papa Ba GAYE</a></li>
-    <li><a href="">Kardiatou GAKO</a></li>
-    <li><a href="">Aphsatou DIA</a></li>
+    <li><a href="https://github.com/PapaBaGAYE">Papa Ba GAYE</a></li>
+    <li><a href="https://github.com/kardiatougako">Kardiatou GAKO</a></li>
+    <li><a href="https://github.com/Diaaphsatou">Aphsatou DIA</a></li>
 </ul>
