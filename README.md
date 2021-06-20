@@ -35,7 +35,7 @@ Et nous avons travaillé ensemble sur le **Drapeau**
     </tbody>
   </table>
 
-  <img src='img/maison.png'>
+  <img src='img/maison.PNG'>
 
   <h3>Avion</h3>
   <table class="table table-dark">
@@ -65,7 +65,7 @@ Et nous avons travaillé ensemble sur le **Drapeau**
     </tbody>
   </table>
 
-  <img src='img/avion.png'>
+  <img src='img/avion.PNG'>
 
   <h3>Fusée</h3>
   <table class="table table-dark">
@@ -100,7 +100,7 @@ Et nous avons travaillé ensemble sur le **Drapeau**
     </tbody>
   </table>
 
-  <img src='img/fusee.png'>
+  <img src='img/fusee.PNG'>
 
   <h3>Drapeau</h3>
   <table class="table table-dark">
@@ -119,7 +119,7 @@ Et nous avons travaillé ensemble sur le **Drapeau**
       </tr>
     </tbody>
   </table>
-  <img src='img/drapeau.png'>
+  <img src='img/drapeau.PNG'>
 </div>
 
 **Participants**
