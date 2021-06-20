@@ -2,10 +2,15 @@
 
 ## Présentation 
 Ce Projet été réalise par les 3 étudiants suivants : <br>
-**Papa Ba GAYE** a écrit le module **dessinMSDA et les commentaires de spécification** et le **README avec le Tableau de flux** <br>
+**Papa Ba GAYE** a écrit le module **dessinMSDA.py et les commentaires de spécification** et le **README avec le Tableau de flux** <br>
 **Kardiatou GAKO** a écrit le module **...** et le **..** <br>
 **Aphsatou DIA** a écrit le module **...** et le **...** <br>
 Et nous avons travaillé ensemble sur le **Drapeau** (**figure au choix**)
+
+<br>
+
+nb : **Les commentaires de spécifications sur a l'intérieur de chaque fonction du module dessinMSDA.py**
+
 <div class="container">
   <h3>Maison</h3>
   <table class="table table-dark">
