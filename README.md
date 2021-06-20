@@ -1,8 +1,8 @@
 # DIAGRAMME DE FLUX
 
 ## Présentation 
-Ce Projet été réalise par les 3 étuiants suivants : <br>
-**Papa Ba GAYE** a écrit le module **dessinMSDA** et le **README avec le Tableau de flux** <br>
+Ce Projet été réalise par les 3 étudiants suivants : <br>
+**Papa Ba GAYE** a écrit le module **dessinMSDA et les commentaires de spécification**, la **figure au choix** et le **README avec le Tableau de flux** <br>
 **Kardiatou GAKO** a écrit le module **...** et le **..** <br>
 **Aphsatou DIA** a écrit le module **...** et le **...** <br>
 Et nous avons travaillé ensemble sur le **Drapeau**
