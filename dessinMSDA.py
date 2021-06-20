@@ -2,7 +2,9 @@ import turtle
 
 tl = turtle.Turtle()
 #CERCLE
-def cercle(rayon, couleur, couleur2='black'):
+def cercle(rayon,
+           couleur,
+           couleur2='black'):
     """
     Commentaires de spécification
     Bloc cercle
@@ -19,7 +21,9 @@ def cercle(rayon, couleur, couleur2='black'):
     tl.circle(rayon)
 
 #DEMI-CERCLE
-def demi_cercle(rayon, couleur, couleur2='black'):
+def demi_cercle(rayon,
+                couleur,
+                couleur2='black'):
     """
     Commentaires de spécification
     Bloc demi_cercle
@@ -39,7 +43,9 @@ def demi_cercle(rayon, couleur, couleur2='black'):
     tl.pendown()
 
 #CARRE
-def carre(cote, couleur, couleur2='black'):
+def carre(cote,
+          couleur,
+          couleur2='black'):
     """
     Commentaires de spécification
     Bloc carre
@@ -58,7 +64,9 @@ def carre(cote, couleur, couleur2='black'):
         tl.left(90)
 
 #TRIANGLE
-def triangle(cote, couleur, couleur2='black'):
+def triangle(cote,
+             couleur,
+             couleur2='black'):
     """
     Commentaires de spécification
     Bloc triangle
@@ -77,7 +85,10 @@ def triangle(cote, couleur, couleur2='black'):
         tl.right(-120)
 
 #TRIANGLE ISOCELE
-def triangle_Isocele(cote, cote2, couleur, couleur2='black'):
+def triangle_Isocele(cote,
+                     cote2,
+                     couleur,
+                     couleur2='black'):
     """
     Commentaires de spécification
     Bloc triangle
@@ -100,7 +111,10 @@ def triangle_Isocele(cote, cote2, couleur, couleur2='black'):
 # triangleIsocele(20, 60, 'black')
 
 #RECTANGLE
-def rectangle(longueur, largeur, couleur, couleur2='black'):
+def rectangle(longueur,
+              largeur,
+              couleur,
+              couleur2='black'):
     """
     Commentaires de spécification
     Bloc rectangle
@@ -121,7 +135,10 @@ def rectangle(longueur, largeur, couleur, couleur2='black'):
         tl.left(90)
 
 # POLYGONE 
-def polygone(n, cote, couleur, couleur2='black'):
+def polygone(n,
+             cote, 
+             couleur, 
+             couleur2='black'):
     """
     Commentaires de spécification
     Bloc polygone
@@ -141,7 +158,9 @@ def polygone(n, cote, couleur, couleur2='black'):
         tl.left(angle)
 
 #LOSANGE
-def losange(cote, couleur, couleur2='black'):
+def losange(cote,
+            couleur,
+            couleur2='black'):
     """
     Commentaires de spécification
     Bloc losange
@@ -154,7 +173,7 @@ def losange(cote, couleur, couleur2='black'):
     Résultats : losange
     Hypothèses : -
     """
-    tl.color(couleur, couleur2)   
+    tl.color(couleur,couleur2)   
     for i in range(2):
         tl.forward(cote)
         tl.right(-135)
@@ -162,7 +181,9 @@ def losange(cote, couleur, couleur2='black'):
         tl.right(-45)
 
 # ELIPSE
-def elipse(cote, couleur, couleur2='black'):    
+def elipse(cote,
+           couleur, 
+           couleur2='black'):    
     """
     Commentaires de spécification
     Bloc elipse
@@ -183,7 +204,12 @@ def elipse(cote, couleur, couleur2='black'):
     tl.left(-45)
 
 #TRAPEZE
-def trapeze(cote1, cote2, cote3, cote4, couleur, couleur2='black'):
+def trapeze(cote1,
+            cote2,
+            cote3,
+            cote4,
+            couleur,
+            couleur2='black'):
     """
     Commentaires de spécification
     Bloc trapeze
@@ -211,7 +237,12 @@ def trapeze(cote1, cote2, cote3, cote4, couleur, couleur2='black'):
     tl.right(angle3)
     tl.forward(cote4)
 
-def trapeze_Gauche(cote1, cote2, cote3, cote4, couleur, couleur2='black'):
+def trapeze_Gauche(cote1,
+                   cote2,
+                   cote3, 
+                   cote4, 
+                   couleur, 
+                   couleur2='black'):
     tl.color(couleur, couleur2)
     angle1 = 100
     angle2 = 70
