@@ -1,16 +1,17 @@
-# DIAGRAMME DE FLUX
+# PRESENTATION, DESSINS ET TABLEAUX DE FLUX
 
 ## Présentation 
 Ce Projet été réalise par les 3 étudiants suivants : <br>
-**Papa Ba GAYE** a écrit le module **dessinMSDA.py et les commentaires de spécification** et le **README avec le Tableau de flux** <br>
-**Kardiatou GAKO** a écrit le module **...** et le **..** <br>
-**Aphsatou DIA** a écrit le module **...** et le **...** <br>
+**Papa Ba GAYE** a écrit le module **dessinMSDA.py** et les **commentaires de spécification** et le **README avec le Tableau de flux** <br>
+**Kardiatou GAKO** a écrit le fichier **fusee.py** et le fichier **maison.py** <br>
+**Aphsatou DIA** a écrit le fichier **avion.py** et le fichier **test.py** <br>
 Et nous avons travaillé ensemble sur le **Drapeau** (**figure au choix**)
 
 <br>
 
-nb : **Les commentaires de spécifications sur a l'intérieur de chaque fonction du module dessinMSDA.py**
+nb : **Les commentaires de spécifications sont a l'intérieur de chaque fonction du module dessinMSDA.py**
 
+## Tableaux de flux et Dessins 
 <div class="container">
   <h3>Maison</h3>
   <table class="table table-dark">
