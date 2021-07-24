@@ -3,10 +3,10 @@
 ## Présentation 
 Ce Projet été réalise par les 3 étudiants suivants : <br>
 
-° **Papa Ba GAYE** a écrit le module **dessinMSDA.py** et les **commentaires de spécification** et le **README avec le Tableau de flux** <br>
-° **Kardiatou GAKO** a écrit le fichier **fusee.py** et le fichier **maison.py** <br>
-° **Aphsatou DIA** a écrit le fichier **avion.py** et le fichier **test.py** <br>
-° Et nous avons travaillé ensemble sur le **Drapeau** (**figure au choix**)
+**Papa Ba GAYE** a écrit le module **dessinMSDA.py** et les **commentaires de spécification** et le **README avec le Tableau de flux** <br>
+**Kardiatou GAKO** a écrit le fichier **fusee.py** et le fichier **maison.py** <br>
+**Aphsatou DIA** a écrit le fichier **avion.py** et le fichier **test.py** <br>
+Et nous avons travaillé ensemble sur le **Drapeau** (**figure au choix**)
 
 <br>
 
